@@ -25,8 +25,6 @@ public class Drills {
         // An infinite loop
         while(true) {
             System.out.println("hey there!");
-            break;  // IMPORTANT: I added a break statement so rest of code will run. 
-                    // I'm aware that a regular infinite loop would not have a break.
         }
 
         // a short-circuit conditional with four tests
